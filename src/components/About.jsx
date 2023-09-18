@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div name="about" 
+    <div name="About" 
          className="w-full h-screen bg-gradient-to-b from-gray-700 to-black text-white">
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
@@ -11,13 +11,16 @@ const About = () => {
             </p>
         </div>
         <p className="text-xl mt-20">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, numquam fuga! Consequatur nihil exercitationem corrupti tenetur pariatur perferendis ipsa tempore velit laborum ut doloremque eum architecto quia libero aliquam perspiciatis quos laudantium nisi alias, delectus expedita voluptas doloribus. Eveniet optio ratione, quae ipsum quia reiciendis iusto fuga beatae fugit vel.
+        Welcome to my portfolio! I'm a passionate frontend developer with expertise in building dynamic web applications using React.js and crafting visually appealing user interfaces with the power of Tailwind CSS. Here, you'll find a glimpse of my journey in web development, 
+        highlighting projects that demonstrate my skills and dedication to creating engaging digital experiences.
         </p> 
 
         <br/>   
-
+  
         <p className="text-xl ">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo tempore, excepturi vitae quisquam earum, aliquid ipsum maiores, velit exercitationem doloremque recusandae mollitia assumenda sit consequuntur? Quos maxime facere quae consectetur! Architecto, quia consectetur beatae dolore dignissimos numquam rem voluptas, ducimus a tempore suscipit ipsum aliquam, blanditiis obcaecati magnam dicta sequi?
+        I have also worked on  a web development project that demonstrates my proficiency in HTML, CSS, and JavaScript. This project was designed to  create a user-friendly e-commerce food/restaurant website for ordering food and to learn frontend.
+
+
         </p>
         </div>
     </div>

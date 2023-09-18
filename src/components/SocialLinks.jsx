@@ -12,7 +12,7 @@ const SocialLinks = () => {
                   LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'www.linkedin.com/in/aakriti-tripathi-510930256',
             style: 'rounded-tr-md'
         },
         {
@@ -42,7 +42,7 @@ const SocialLinks = () => {
                   Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/res.pdf',
+            href: 'https://drive.google.com/file/d/1qdixhyLmDQViNZ5hP13uda1wuZPM0Ods/view?usp=drive_link',
             style: 'rounded-br-md',
             download:true,
         },
