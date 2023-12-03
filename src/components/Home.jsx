@@ -12,12 +12,12 @@ const Home = () => {
             justify-center h-full px- md:flex-row'>
             <div className="flex flex-col justify-center h-full">
                   <h2 className='text-4xl sm:text-7xl font-bold text-white'>
-                    <span className='text-purple-400'>I'm</span> a Full Stack <span className ="text-purple-400">Developer</span>
+                    <span className='text-purple-400'>I'm</span> a Front-End <span className ="text-purple-400">Developer</span>
                    
                   </h2>
-                  <p className="text-white py-4 ">I am a passionate full stack developer with a 
+                  <p className="text-white py-4 ">I am a passionate front-end developer with a 
                     strong foundation in web development technologies. 
-                    with the skills in both front-end and back-end development,
+                    with the skills in both front-end  development,
                      making me adept at creating dynamic and responsive web applications.
                     I have a solid grasp of programming languages like HTML, CSS, JavaScript, 
                     Tailwind and React and I am eager to apply my knowledge to real-world projects.

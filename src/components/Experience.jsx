@@ -7,6 +7,7 @@ import github from "../assets/github.png";
 import java from "../assets/java.png";
 import node from "../assets/node.png";
 import tailwind from "../assets/tailwind.png";
+import Sql from "../assets/Sql.png";
 
 const Experience = () => {
 
@@ -59,6 +60,13 @@ const Experience = () => {
             title:'Tailwind',
             style:'shadow-sky-400'
         },
+        {
+            id:9,
+            src:Sql,
+            title:"SQL",
+            style:'shadow-orange-500'
+
+        }
     ]
   return (
     <div name="Experience" 
