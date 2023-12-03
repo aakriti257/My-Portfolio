@@ -17,7 +17,7 @@ const Home = () => {
                   </h2>
                   <p className="text-white py-4 ">I am a passionate front-end developer with a 
                     strong foundation in web development technologies. 
-                    with the skills in both front-end  development,
+                    with the skills in  front-end  development,
                      making me adept at creating dynamic and responsive web applications.
                     I have a solid grasp of programming languages like HTML, CSS, JavaScript, 
                     Tailwind and React and I am eager to apply my knowledge to real-world projects.

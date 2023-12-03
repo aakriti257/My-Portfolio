@@ -48,20 +48,15 @@ const Experience = () => {
             title:'Java',
             style:'shadow-white'
         },
+        
         {
             id:7,
-            src:node,
-            title:'Node JS',
-            style:'shadow-green-500'
-        },
-        {
-            id:8,
             src:tailwind,
             title:'Tailwind',
             style:'shadow-sky-400'
         },
         {
-            id:9,
+            id:8,
             src:Sql,
             title:"SQL",
             style:'shadow-orange-500'
